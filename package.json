@@ -1,0 +1,19 @@
+{
+  "name": "robofriends",
+  "version": "1.0.0",
+  "description": "learning react!",
+  "main": "precache-manifest.dc9f0e66511c68b8c0787c8bd68e74e4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racherdoodles/robofriends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/racherdoodles/robofriends/issues"
+  },
+  "homepage": "https://github.com/racherdoodles/robofriends#readme"
+}
